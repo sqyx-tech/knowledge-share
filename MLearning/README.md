@@ -31,7 +31,7 @@
   * 3.5.特征提取【TODO】
 * 4.模型构建
   * 4.1.分类算法
-     * [4.1.1.决策树](https://github.com/sqyx-tech/knowledge-share/blob/master/reactor-start/docs/Operator.md)
+     * [4.1.1.决策树](https://github.com/sqyx-tech/knowledge-share/tree/master/MLearning/decisionTree)
      * 4.1.2.逻辑回归【TODO】
      * 4.1.3.SVM【TODO】
      * 4.1.4.随机森林【TODO】
